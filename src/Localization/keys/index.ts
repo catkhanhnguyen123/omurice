@@ -3,4 +3,5 @@ export enum LocalizationKey {
   HOME = "home",
   START = "start",
   LOADING = "loading",
+  ONBOARDING = 'onboarding',
 }
